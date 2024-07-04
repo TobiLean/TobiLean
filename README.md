@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobiLean
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning Blender and Python programming
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me tobiloba.tsl@gmail.com
 
